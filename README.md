@@ -14,16 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+
 
 <h2 align="center">A passionate developer from MX</h2>
 <div>
   <h4>Cloud</h4>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+ <dl>
+  <dt>
+   <dd><p align="left">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </dd>
+  <dt>Learning soon...</dt>
+  <dd>
+   <img src="https://www.vectorlogo.zone/logos/huawei/huawei-ar21.svg" alt="huawei" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+  </dd>
+  </dt>
+ </dl>
 </div>
+
 <div>
   <h4> Programming Languages</h4>
   <dl>
@@ -35,12 +45,14 @@ Here are some ideas to get you started:
     <dd><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></dd>
   </dl>
   
-  
-  <li></li>
-  
-  
 </div>
 <div>
-  <h4>Database</h4>
-  <p align="left"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></p>
+  <h4>Databases</h4>
+ <dl>
+  <dd>
+   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </dd>
+ </dl>
 </div>
