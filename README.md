@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
 
 <h2 align="center">A passionate developer from MX</h2>
 <div>
@@ -34,11 +30,6 @@ Here are some ideas to get you started:
     <dt>Learning...</dt>
     <dd><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></dd>
   </dl>
-  
-  
-  <li></li>
-  
-  
 </div>
 <div>
   <h4>Database</h4>
