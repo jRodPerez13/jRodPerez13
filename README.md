@@ -54,6 +54,7 @@ Here are some ideas to get you started:
    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="10"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" hspace="10"/>
     <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt"sqlserver" width="40" height="40" hspace="10"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="40" height="40" hspace="10"/>
   </dd>
  </dl>
 </div>
