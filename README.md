@@ -57,3 +57,7 @@ Here are some ideas to get you started:
   </dd>
  </dl>
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=azpel13&&show_icons=true&title_color=B20A0A&icon_color=0418DE&text_color=daf7dc&bg_color=151515" />
+</div>
