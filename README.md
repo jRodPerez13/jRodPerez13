@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azpel13&layout=compact" alt="azpel13" hspace="16" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jRodPerez13&layout=compact" alt="Rod Perez" hspace="16" />
   
 </div>
 <div>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <div>
       <details>
       <summary>:sparkles: Github Stats</summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=azpel13&show_icons=true" alt="Azpel13"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jRodPerez13&show_icons=true" alt="Rod Perez"/>
     </details>
   </div>
   </p>
